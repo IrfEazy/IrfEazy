@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I'm working on my thesis project. I'm creating a system that analyzes Twitter posts to identify topics related to computer security and organizes them according to the different parts of a company's IT infrastructure.<br><br>👯 I'd like to create a multiplayer PC video game based on the Rising Sun board game. I don't have experience with game development frameworks, but my background as an AI engineering master's graduate qualifies me to contribute to the AI-related parts of the project.<br><br>🤝🏼 I'm exploring the Multi-Label Classification field because I've noticed a lack of libraries dedicated to this area. Collaboration or insights on creating or optimizing tools for this purpose would be valuable.<br><br>🌱 After attending the Hackapizza event, where I learned about RAG, GraphRAG, and multi-agent models, I'm studying these areas more. I'm currently learning about these concepts to prepare for future work challenges.<br><br>💬 Ask me about AI topics such as machine learning, data mining, numerical analysis, and natural language processing (NLP), where I have a strong foundation and practical experience.<br><br>⚡️ I'm fascinated by myths for the insight they provide into different cultural traditions (I've enjoyed reading Greek Myths by Robert Graves). I'm also a fan of J.R.R. Tolkien's masterpieces The Lord of the Rings and The Hobbit—and I find The Silmarillion both tough and captivating. Additionally, I have a deep love for Ancient History as a whole.
+🔭 I recently completed my thesis project, where I created a system that analyzes Twitter posts to identify computer security topics and organizes them according to different parts of a company's IT infrastructure. I've now graduated with a Master's in Artificial Intelligence from Politecnico di Milano and am searching for job opportunities.
+
+👯 I'm currently implementing mods for Unciv, which has been an exciting way to apply my programming skills. I'm still interested in creating a multiplayer PC video game based on the Rising Sun board game. While I don't have extensive experience with game development frameworks, my AI background qualifies me to contribute to the AI components of such projects.
+
+🤝🏼 I'm maintaining entries in the MusicBrainz database, contributing to this open music information platform. I'm open to collaborating on interesting AI and software development projects that align with my skills and interests.
+
+🌱 I'm diving deeper into NLP topics following my experience with RAG, GraphRAG, and multi-agent models. I'm expanding my knowledge in these areas to enhance my capabilities for future work challenges.
+
+💬 Ask me about AI topics such as machine learning, data mining, numerical analysis, and natural language processing (NLP), where I have a strong foundation and practical experience as a graduate in Artificial Intelligence.
+
+⚡️ I'm currently reading Overlord and plan to start The Count of Monte Cristo next. I remain fascinated by myths for the insight they provide into different cultural traditions (I've enjoyed reading Greek Myths by Robert Graves). I'm also a fan of J.R.R. Tolkien's masterpieces The Lord of the Rings and The Hobbit—and I find The Silmarillion both tough and captivating. Additionally, I have a deep love for Ancient History as a whole.
 
 
 ## 🌐 Socials:
