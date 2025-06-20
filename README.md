@@ -1,9 +1,14 @@
 # 💫 About Me:
 👨‍💻 AI Engineer | Explorer of Patterns | Builder of Meaning
+
 🎓 MSc in Artificial Intelligence @ Politecnico di Milano
+
 🔍 I craft models that learn, systems that adapt, and tools that matter.
+
 🌱 Currently diving deep into NLP, ML pipelines & the magic of clean code.
+
 📚 Thesis: Social media threat classification in cybersecurity (CS-Aware-Next 🇪🇺)
+
 🚀 Always learning, always building — one commit at a time.
 
 ## 🌐 Socials:
