@@ -1,16 +1,10 @@
 # 💫 About Me:
-🔭 I recently completed my thesis project, where I created a system that analyzes Twitter posts to identify computer security topics and organizes them according to different parts of a company's IT infrastructure. I've now graduated with a Master's in Artificial Intelligence from Politecnico di Milano and am searching for job opportunities.
-
-👯 I'm currently implementing mods for Unciv, which has been an exciting way to apply my programming skills. I'm still interested in creating a multiplayer PC video game based on the Rising Sun board game. While I don't have extensive experience with game development frameworks, my AI background qualifies me to contribute to the AI components of such projects.
-
-🤝🏼 I'm maintaining entries in the MusicBrainz database, contributing to this open music information platform. I'm open to collaborating on interesting AI and software development projects that align with my skills and interests.
-
-🌱 I'm diving deeper into NLP topics following my experience with RAG, GraphRAG, and multi-agent models. I'm expanding my knowledge in these areas to enhance my capabilities for future work challenges.
-
-💬 Ask me about AI topics such as machine learning, data mining, numerical analysis, and natural language processing (NLP), where I have a strong foundation and practical experience as a graduate in Artificial Intelligence.
-
-⚡️ I'm currently reading Overlord and plan to start The Count of Monte Cristo next. I remain fascinated by myths for the insight they provide into different cultural traditions (I've enjoyed reading Greek Myths by Robert Graves). I'm also a fan of J.R.R. Tolkien's masterpieces The Lord of the Rings and The Hobbit—and I find The Silmarillion both tough and captivating. Additionally, I have a deep love for Ancient History as a whole.
-
+👨‍💻 AI Engineer | Explorer of Patterns | Builder of Meaning
+🎓 MSc in Artificial Intelligence @ Politecnico di Milano
+🔍 I craft models that learn, systems that adapt, and tools that matter.
+🌱 Currently diving deep into NLP, ML pipelines & the magic of clean code.
+📚 Thesis: Social media threat classification in cybersecurity (CS-Aware-Next 🇪🇺)
+🚀 Always learning, always building — one commit at a time.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irfeazy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irfan-cela) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@irfeazy) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/irfeazy) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/irfeazy) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Traditional-Piano-15 ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22934939)
