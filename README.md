@@ -1,15 +1,12 @@
-# 💫 About Me:
-👨‍💻 AI Engineer | Explorer of Patterns | Builder of Meaning
+### Hey there 👋 I'm Irfan, an AI Engineer with a love for smart systems and clean code.
 
-🎓 MSc in Artificial Intelligence @ Politecnico di Milano
+- 🎓 MSc in Artificial Intelligence @ Politecnico di Milano (2025)
+- 🧠 Interests: NLP, deep learning, recommender systems, cybersecurity
+- 💬 I like models that work *and* make sense. Big fan of interpretable AI.
+- 🐍 Python is home, but I’m also fluent in SQL, Java, and C.
+- 🔍 Always curious, always building, always learning.
 
-🔍 I craft models that learn, systems that adapt, and tools that matter.
-
-🌱 Currently diving deep into NLP, ML pipelines & the magic of clean code.
-
-📚 Thesis: Social media threat classification in cybersecurity (CS-Aware-Next 🇪🇺)
-
-🚀 Always learning, always building — one commit at a time.
+Let’s make machines a bit smarter — and the world a bit better.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irfeazy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irfan-cela) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@irfeazy) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/irfeazy) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/irfeazy) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Traditional-Piano-15 ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22934939)
