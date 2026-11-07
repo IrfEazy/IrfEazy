@@ -1,16 +1,24 @@
-# Hey there 👋 I'm Irfan, an AI Engineer with a love for smart systems and clean code
+# Hey there 👋 I'm Irfan, an AI Engineer and Data Scientist
 
-- 🎓 MSc in Artificial Intelligence @ Politecnico di Milano (2025)
-- 🧠 Interests: NLP, deep learning, machine learning, GenAI
+- 🏢 AI Engineer and Data Scientist at Data Reply (Milan), building LLM and GenAI pipelines for insurance documents at Generali
+- 🎓 MSc Computer Science and Engineering (AI track), Politecnico di Milano (2025)
+- 🏅 Databricks Certified Machine Learning Engineer Associate (2026)
+- 🧠 Interests: NLP, deep learning, LLMs and GenAI, evaluation methodology
 - 💬 I like models that work *and* make sense. Big fan of interpretable AI.
-- 🐍 Python is home, but I’m also fluent in SQL, Java, and C.
-- 🔍 Always curious, always building, always learning.
+- 📫 [LinkedIn](https://www.linkedin.com/in/irfan-cela)
 
 Let’s make machines a bit smarter — and the world a bit better.
 
+## 🚀 Featured projects
+
+- [msc-thesis](https://github.com/IrfEazy/msc-thesis): Cybersecurity tweet filtering and hierarchical multi-label classification, re-evaluated without leakage using a grouped split and bootstrap confidence intervals.
+- [timesfm3-talk](https://github.com/IrfEazy/timesfm3-talk): Preregistered rolling-origin stress test of zero-shot TimesFM against naive, seasonal, drift and ETS baselines; no confirmatory advantage over naive.
+- [nlp-project](https://github.com/IrfEazy/nlp-project): Yelp 5-class review benchmark packaged as a tested library, from TF-IDF (58.1% accuracy) to fine-tuned DistilBERT (68.6%).
+
 ## 💻 Tech Stack
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MusicBrainz](https://img.shields.io/badge/Musicbrainz-EB743B?style=for-the-badge&logo=musicbrainz&logoColor=BA478F) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black) ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge) ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge) ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge) ![Anthropic](https://img.shields.io/badge/Anthropic-%23191919.svg?style=for-the-badge&logo=anthropic&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-%23945DD6.svg?style=for-the-badge&logo=dvc&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
 <!--# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IrfEazy&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IrfEazy&theme=ambient_gradient&hide_border=false)<br/>
