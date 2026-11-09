@@ -11,6 +11,7 @@ Let’s make machines a bit smarter — and the world a bit better.
 
 ## 🚀 Featured projects
 
+- [fremtpl2-pricing](https://github.com/IrfEazy/fremtpl2-pricing): Motor insurance pure-premium pricing on freMTPL2, Poisson/Gamma/Tweedie GLMs vs monotone LightGBM under a protocol frozen before test access; the GBM lowers Tweedie loss by 1.38 (95% group-bootstrap CI [-2.12, -0.78]) and raises normalised Gini by 0.06.
 - [msc-thesis](https://github.com/IrfEazy/msc-thesis): Cybersecurity tweet filtering and hierarchical multi-label classification, re-evaluated without leakage using a grouped split and bootstrap confidence intervals.
 - [timesfm3-talk](https://github.com/IrfEazy/timesfm3-talk): Preregistered rolling-origin stress test of zero-shot TimesFM against naive, seasonal, drift and ETS baselines; no confirmatory advantage over naive.
 - [nlp-project](https://github.com/IrfEazy/nlp-project): Yelp 5-class review benchmark packaged as a tested library, from TF-IDF (58.1% accuracy) to fine-tuned DistilBERT (68.6%).
